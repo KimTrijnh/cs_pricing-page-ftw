@@ -1,3 +1,11 @@
 .box-shadow {
     box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.05);
 }
+
+/* styleing for checkout page */
+@media only screen and (max-width: 600px) {
+    .cart-list {
+        order: 1;
+    }
+
+}
