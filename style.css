@@ -3,7 +3,7 @@
 }
 
 /* styleing for checkout page */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 700px) {
     .cart-list {
         order: 1;
     }
